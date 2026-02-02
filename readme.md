@@ -8,7 +8,7 @@ com foco em tomada de decisão e visualização de indicadores.
 Dashboard desenvolvido para controle e análise de linhas telefônicas corporativas, com foco em custos, contratos e distribuição por departamento.
 Apresenta visão consolidada do custo mensal e anual, status das linhas (ativas e canceladas), planos contratados e responsáveis, apoiando a tomada de decisão e otimização de gastos.
 
-- 📄 [![Dashboard de Linhas Telefônicas](./Screenshots/Screenshot%20Linhas.png)](./Linhas%20telefonicas.pdf)
+- 📄 [![Dashboard de Linhas Telefônicas](./Screenshot/Screenshot%20Linhas.png)](./Linhas%20telefonicas.pdf)
 
 
 ## 🛠️ Dashboard de Indicadores de Chamados (TI)
@@ -16,7 +16,7 @@ Apresenta visão consolidada do custo mensal e anual, status das linhas (ativas 
 Dashboard desenvolvido para acompanhamento dos indicadores de chamados de TI, permitindo analisar volume de tickets, status, tempo de atendimento e distribuição por área/responsável.
 Apoia a gestão operacional e a identificação de gargalos no suporte técnico.
 
-- 📄 [![Dashboard de Indicadores de Chamados](./Screenshots/Screenshot%20Chamados.png)](./Indicadores%20de%20chamados.pdf)
+- 📄 [![Dashboard de Indicadores de Chamados](./Screenshot/Screenshot%20Chamados.png)](./Indicadores%20de%20chamados.pdf)
 
 
 ## 🎧 Dashboard de Indicadores de Atendimento (Octadesk)
@@ -24,7 +24,7 @@ Apoia a gestão operacional e a identificação de gargalos no suporte técnico.
 Dashboard desenvolvido para monitoramento dos chamados registrados no Octadesk, com análise de status dos tickets, tempo de atendimento, volume por departamento, agentes responsáveis e tipos de ocorrência.
 Permite acompanhar a performance do suporte, SLAs e nível de satisfação dos usuários, apoiando decisões de melhoria contínua.
 
-- 📄 [![Dashboard de Indicadores Octadesk](./Screenshots/Screenshot%20Octadesk.png)](./indicador%20octadesk.pdf)
+- 📄 [![Dashboard de Indicadores Octadesk](./Screenshot/Screenshot%20Octadesk.png)](./indicador%20octadesk.pdf)
 
 
 ## 🔐 Dashboard de Acessos VPN
@@ -32,7 +32,7 @@ Permite acompanhar a performance do suporte, SLAs e nível de satisfação dos u
 Dashboard desenvolvido para controle e monitoramento dos acessos VPN, com visão consolidada de acessos ativos e desativados, perfis de conexão (L2TP, PPTP, OVPN), roteadores utilizados e últimos registros de acesso.
 Auxilia na gestão de segurança, auditoria de acessos e identificação de contas inativas.
 
-- 📄 [![Dashboard de Acessos VPN](./Screenshots/Screenshot%20VPN.png)](./Acessos%20vpns.pdf)
+- 📄 [![Dashboard de Acessos VPN](./Screenshot/Screenshot%20VPN.png)](./Acessos%20vpns.pdf)
 
   
 ## 🔹 Tecnologias
