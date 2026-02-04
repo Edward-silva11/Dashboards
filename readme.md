@@ -3,41 +3,72 @@
 Este repositório reúne projetos de análise de dados e dashboards desenvolvidos
 com foco em tomada de decisão e visualização de indicadores.
 
-- 📞 Dashboard de Linhas Telefônicas Corporativas
+---
 
-Dashboard desenvolvido para controle e análise de linhas telefônicas corporativas, com foco em custos, contratos e distribuição por departamento.
-Apresenta visão consolidada do custo mensal e anual, status das linhas (ativas e canceladas), planos contratados e responsáveis, apoiando a tomada de decisão e otimização de gastos.
+## Power BI – Análise de Uso de Redes Sociais
 
-- 📄 [![Dashboard de Linhas Telefônicas](./Screenshot/Screenshot%20Linhas.png)](./Linhas%20telefonicas.pdf)
+Dashboard desenvolvido com foco em análise de comportamento de usuários, explorando métricas como total de usuários, média de uso diário, consumo de Reels, Stories e anúncios.
 
+O projeto apresenta análises demográficas (gênero, status de relacionamento), distribuição geográfica, renda por local de moradia e perfil de escolaridade dos usuários empregados, permitindo uma visão clara e estratégica dos dados.
 
-## 🛠️ Dashboard de Indicadores de Chamados (TI)
+Ferramentas utilizadas: Power BI, modelagem de dados e criação de medidas DAX para indicadores e KPIs.
+
+![Análise Mídia Social](./Screenshot/Screenshot%20Analise%20midia%20social.png)
+
+---
+
+## Power BI – Análise de Vendas de E-commerce
+
+Dashboard analítico para acompanhamento de vendas em e-commerce, apresentando indicadores como:
+- Quantidade de vendas  
+- Produtos vendidos  
+- Lucro total  
+- Crescimento percentual  
+- Performance por região, produto e categoria  
+
+Permite comparar períodos, identificar tendências e avaliar o desempenho comercial do negócio.
+
+![E-commerce](./Screenshot/Screenshot%20Analitico%20ecommerce.png)
+
+---
+
+## Looker Studio – Indicadores de Chamados (TI)
 
 Dashboard desenvolvido para acompanhamento dos indicadores de chamados de TI, permitindo analisar volume de tickets, status, tempo de atendimento e distribuição por área/responsável.
+
 Apoia a gestão operacional e a identificação de gargalos no suporte técnico.
 
-- 📄 [![Dashboard de Indicadores de Chamados](./Screenshot/Screenshot%20Chamados.png)](./Indicadores%20de%20chamados.pdf)
+![Indicadores de Chamados](./Screenshot/Screenshot%20Chamados.png)
 
+---
 
-## 🎧 Dashboard de Indicadores de Atendimento (Octadesk)
+## Power BI – Indicadores de Atendimento (Octadesk)
 
 Dashboard desenvolvido para monitoramento dos chamados registrados no Octadesk, com análise de status dos tickets, tempo de atendimento, volume por departamento, agentes responsáveis e tipos de ocorrência.
+
 Permite acompanhar a performance do suporte, SLAs e nível de satisfação dos usuários, apoiando decisões de melhoria contínua.
 
-- 📄 [![Dashboard de Indicadores Octadesk](./Screenshot/Screenshot%20Octadesk.png)](./indicador%20octadesk.pdf)
+![Octadesk](./Screenshot/Screenshot%20Octadesk.png)
 
+---
 
-## 🔐 Dashboard de Acessos VPN
+## Looker Studio – Controle de Acessos VPN
 
-Dashboard desenvolvido para controle e monitoramento dos acessos VPN, com visão consolidada de acessos ativos e desativados, perfis de conexão (L2TP, PPTP, OVPN), roteadores utilizados e últimos registros de acesso.
-Auxilia na gestão de segurança, auditoria de acessos e identificação de contas inativas.
+Dashboard desenvolvido para controle e monitoramento de acessos VPN, permitindo analisar:
+- Total de acessos cadastrados  
+- Acessos ativos e desativados  
+- Distribuição por perfil (L2TP, PPTP, OVPN)  
+- Conexões por roteador e tipo de IP  
+- Status dos acessos e registros de login/logout  
 
-- 📄 [![Dashboard de Acessos VPN](./Screenshot/Screenshot%20VPN.png)](./Acessos%20vpns.pdf)
+Inclui tabelas detalhadas com informações de usuários, departamento, roteador, tipo de atribuição e origem do acesso, auxiliando na governança de acessos e na segurança da infraestrutura.
 
-  
+![Controle VPN](./Screenshot/Screenshot%20VPN.png)
+
+---
+
 ## 🔹 Tecnologias
-- Power BI
-- Looker Studio
-- SQL
-- Excel
-
+- Power BI  
+- Looker Studio  
+- SQL  
+- Excel  
