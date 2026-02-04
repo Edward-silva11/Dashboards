@@ -62,7 +62,7 @@ Dashboard desenvolvido para controle e monitoramento de acessos VPN, permitindo 
 - Status dos acessos e registros de login/logout  
 
 Inclui tabelas detalhadas com informações de usuários, departamento, roteador, tipo de atribuição e origem do acesso, auxiliando na governança de acessos e na segurança da infraestrutura.
-
+ 
 ![Controle VPN](./Screenshot/Screenshot%20VPN.png)
 
 ---
