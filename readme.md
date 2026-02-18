@@ -32,7 +32,7 @@ Permite comparar períodos, identificar tendências e avaliar o desempenho comer
 
 ---
 
-## Looker Studio – Indicadores de Chamados (TI)
+## Power BI – Indicadores de Chamados (TI)
 
 Dashboard desenvolvido para acompanhamento dos indicadores de chamados de TI, permitindo analisar volume de tickets, status, tempo de atendimento e distribuição por área/responsável.
 
