@@ -42,16 +42,6 @@ Apoia a gestão operacional e a identificação de gargalos no suporte técnico.
 
 ---
 
-## Power BI – Indicadores de Atendimento (Octadesk)
-
-Dashboard desenvolvido para monitoramento dos chamados registrados no Octadesk, com análise de status dos tickets, tempo de atendimento, volume por departamento, agentes responsáveis e tipos de ocorrência.
-
-Permite acompanhar a performance do suporte, SLAs e nível de satisfação dos usuários, apoiando decisões de melhoria contínua.
-
-![Octadesk](./Screenshot/Screenshot%20Octadesk.png)
-
----
-
 ## Looker Studio – Controle de Acessos VPN
 
 Dashboard desenvolvido para controle e monitoramento de acessos VPN, permitindo analisar:
